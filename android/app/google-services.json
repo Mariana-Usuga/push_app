@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "847264029141",
+    "project_id": "flutter-projects-27ad3",
+    "storage_bucket": "flutter-projects-27ad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847264029141:android:410b11d687a13d1311055c",
+        "android_client_info": {
+          "package_name": "com.example.forms_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFoVwKvtYwgCMyjSxTziwHFwOBE_yWHP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847264029141:android:a87b30b44d0aca1211055c",
+        "android_client_info": {
+          "package_name": "com.marianausuga.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFoVwKvtYwgCMyjSxTziwHFwOBE_yWHP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
